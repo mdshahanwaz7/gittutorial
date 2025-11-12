@@ -1,1 +1,0 @@
-console.log("index file  written by shah ")
