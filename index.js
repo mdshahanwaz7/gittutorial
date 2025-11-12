@@ -1,1 +1,1 @@
-console.log("index file  written")
+console.log("index file  written by shah ")
